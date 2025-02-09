@@ -1,6 +1,6 @@
 # OPTIMUS-ELITE
  ##  Superstore Sales Report
  ##  Problem statement
- 1. Total revenue
+ 1. Yearly Revenue Trend
 
     ![](
